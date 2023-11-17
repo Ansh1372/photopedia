@@ -100,11 +100,9 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Ansh Srivastava , Komal Gangwar , Sapna Singh , Kamlesh Kumari]())
+- Website - [Ansh Srivastava)
 - Linkedin - [Ansh Srivastava](https://www.linkedin.com/in/ansh-srivastava-bb544b225)
-- Linkedin - [Komal Gangwar](https://www.linkedin.com/in/komal-gangwar-646bb8227)
-- Linkedin - [Sapna Singh](https://www.linkedin.com/in/sapna-singh-3933b9228)
-- Linkedin - [Kamlesh Kumari](https://www.linkedin.com/in/kamlesh-kumari-1b4965244/)
+
 
 
 
